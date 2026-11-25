@@ -18,4 +18,5 @@ export const teamMembers: readonly TeamMember[] = [
   { name: "Andy", role: "Chief Estimator", image: "/team/andy.jpg" },
   { name: "Connell", role: "Pre-construction Manager", image: "/team/connell.jpg" },
   { name: "Khaldon", role: "Project Manager", image: "/team/khaldon.jpg" },
+  { name: "Noah", role: "Marketing Manager & Project Coordinator", image: "/team/noah.jpg" },
 ] as const;
